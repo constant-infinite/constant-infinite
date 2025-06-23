@@ -41,7 +41,7 @@ From responsive web interfaces to smart contracts and AI-powered tools, I love t
 ## 📫 Let's Connect
 
 - 🐙 GitHub:(https://github.com/constant-infinite)
-- 📨 Gmail: nakamurakuhiniko@gmail.com
+- 📨 Gmail: tajdine.elm@gmail.com
 
 ---
 
