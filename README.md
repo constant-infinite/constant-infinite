@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Tajdine – Web, Blockchain & AI Developer
+# 👋 Hello! I'm a Web, Blockchain & AI Developer
 
 I'm a full-stack developer passionate about building secure, scalable, and intelligent applications.  
 From responsive web interfaces to smart contracts and AI-powered tools, I love turning ideas into code.
