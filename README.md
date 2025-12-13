@@ -40,7 +40,6 @@ I love turning ideas into code.
 
 ## 📫 Let's Connect
 
-- 🐙 GitHub:(https://github.com/constant-infinite)
 - 📨 Gmail: navinightwork@gmail.com
 
 ---
