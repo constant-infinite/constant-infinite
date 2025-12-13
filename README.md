@@ -1,8 +1,10 @@
-# 👋 Hello! I am Web, Blockchain & AI Developer
+
+=======
+# 👋 Hello! I'm a Web, Blockchain & AI Developer
 
 I'm a full-stack developer passionate about building secure, scalable, and intelligent applications.  
-From responsive web interfaces to smart contracts and AI-powered tools, I love turning ideas into code.
-
+From responsive web interfaces to smart contracts and AI-powered tools.
+I love turning ideas into code.
 ---
 
 ## 💻 Tech Stack
@@ -40,8 +42,7 @@ From responsive web interfaces to smart contracts and AI-powered tools, I love t
 
 ## 📫 Let's Connect
 
-- 🐙 GitHub:(https://github.com/constant-infinite)
-- 📨 Gmail: tajdine.elm@gmail.com
+- 📨 Gmail: navinightwork@gmail.com
 
 ---
 
